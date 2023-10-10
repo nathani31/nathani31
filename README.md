@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathani31
+- 👋 Hi, I’m Nathaniel
 - 👀 I’m interested in Software Developement.
 - 🌱 I’m currently learning Full Stack Developement.
 - 📫 How to reach me 
